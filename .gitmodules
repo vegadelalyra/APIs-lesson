@@ -1,3 +1,6 @@
 [submodule "JavaScript"]
 	path = JavaScript
 	url = https://github.com/vegadelalyra/pokedex
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/Tariqu/angular-crud-app.git
